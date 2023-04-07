@@ -2,7 +2,7 @@
 
 mover .zshrc:  para `.config` \
 mover Alacritty para `.config` \
-mover as outras pastas para `.config/i3` \
+mover pasta i3 para `.config` \
 rodar `./outros.sh`
 
 
