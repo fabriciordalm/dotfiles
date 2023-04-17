@@ -81,12 +81,12 @@ bindsym $mod+Shift+p 			exec --no-startup-id polybar-msg cmd toggle
 # rofi
 # bindsym $mod+d 				exec --no-startup-id rofi -show-icons -show drun -run-shell-command '{terminal} -e zsh -ic "{cmd} && read"'
 #bindsym $mod+p 				exec rofi -show drun
-bindsym $mod+d 					exec --no-startup-id ~/.config/i3/rofi/bin/launcher
-bindsym $mod+x 					exec --no-startup-id ~/.config/i3/rofi/bin/powermenu
-bindsym $mod+w 					exec --no-startup-id ~/.config/i3/rofi/bin/network_menu
-bindsym $mod+s 					exec --no-startup-id ~/.config/i3/rofi/bin/screenshot
-bindsym $mod+r 					exec --no-startup-id ~/.config/i3/rofi/bin/asroot
-bindsym $mod+Tab 				exec --no-startup-id ~/.config/i3/rofi/bin/windows
+bindsym $mod+d 					exec --no-startup-id ~/.config/rofi/bin/launcher
+bindsym $mod+x 					exec --no-startup-id ~/.config/rofi/bin/powermenu
+bindsym $mod+w 					exec --no-startup-id ~/.config/rofi/bin/network_menu
+bindsym $mod+s 					exec --no-startup-id ~/.config/rofi/bin/screenshot
+bindsym $mod+r 					exec --no-startup-id ~/.config/rofi/bin/asroot
+bindsym $mod+Tab 				exec --no-startup-id ~/.config/rofi/bin/windows
 # bindsym $mod+Shift+m 			exec --no-startup-id ~/.config/i3/rofi/bin/mpd
 
 # -- Function keys --
