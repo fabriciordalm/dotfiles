@@ -1,4 +1,4 @@
-```git clone https://github.com/fabriciordalm/i3wm.git```
+```git clone https://github.com/fabriciordalm/dotfiles.git```
 
 ## Módulos
 
